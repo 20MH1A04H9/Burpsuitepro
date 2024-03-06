@@ -1,0 +1,47 @@
+BURPSUITE FULL COURSE
+
+🧿 Introduction -
+
+◾️ Link - https://mega.nz/folder/eM8RkKDI#9SdZ2Xl2hVqBlcmZXtTCSA
+
+
+
+🧿 Burp Suite Tools Introductions -
+
+◾️ Link - https://mega.nz/folder/TElzmADC#1oaSZ5wyUQ95sJep9b0UJg
+
+
+
+🧿 Broken Authentication and Session Management -
+
+◾️ Link - https://mega.nz/folder/iU1nmYqB#pYKw1uf68ghJKurXtCTxmQ
+
+
+
+🧿 Insecure Direct Object Reference Vulnerability -
+
+◾️ Link - https://mega.nz/folder/nA8zgIIT#RYoWjUwgLI9WVX0NsrxFnA
+
+
+
+🧿 Security Miss Configuration Vulnerabilities -
+
+◾️ Link - https://mega.nz/folder/KA9j2KLT#Vtn3GLuZyWR2gbDwTsuZQg
+
+
+
+🧿 SQL Injection Vulnerabilities -
+
+◾️ Link - https://mega.nz/folder/uBkXWSZS#1isYLVqGqob7Q0SLTFyssw
+
+
+
+🧿 Various Injection Vulnerabilities and Attacks -
+
+◾️ Link - https://mega.nz/folder/zcsliIpb#x_NbLw7vCPK6b0vqhD4PWA
+
+
+
+🧿 Cookie Session Vulnerability Crash -
+
+◾️ Link - https://mega.nz/folder/iB8lRSDa#46GhOEVqXEfWwvwdN1-YMA
